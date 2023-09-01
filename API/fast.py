@@ -10,7 +10,7 @@ app = FastAPI()
 logging.basicConfig(level=logging.INFO)
 
 # Load the LightGBM model
-with open("../data/model.pkl", "rb") as f:
+with open("../data/linear_regression_model.pkl", "rb") as f:
     model = pickle.load(f)
 
 class JobData(BaseModel):
@@ -20,13 +20,7 @@ class JobData(BaseModel):
     total_rooms: float
     total_bedrooms: float
     population: float
-    households: float
     median_income: float
-    ocean_proximity_1H_ocean: float
-    ocean_proximity_INLAND: float
-    ocean_proximity_ISLAND: float
-    ocean_proximity_NEAR_BAY: float
-    ocean_proximity_NEAR_OCEAN: float
 
 @app.get('/')
 def index():
