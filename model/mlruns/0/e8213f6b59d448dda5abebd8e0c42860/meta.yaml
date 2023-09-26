@@ -1,0 +1,15 @@
+artifact_uri: file:///home/selmane/code/IISELII/E2/model/mlruns/0/e8213f6b59d448dda5abebd8e0c42860/artifacts
+end_time: 1695717855824
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8213f6b59d448dda5abebd8e0c42860
+run_name: unruly-smelt-691
+run_uuid: e8213f6b59d448dda5abebd8e0c42860
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695717855601
+status: 3
+tags: []
+user_id: selmane

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/selmane/code/IISELII/E2/model/mlruns/599189591485388145/9c40fab737624212bfcb4f779aaeccaf/artifacts
+end_time: 1695728767829
+entry_point_name: ''
+experiment_id: '599189591485388145'
+lifecycle_stage: active
+run_id: 9c40fab737624212bfcb4f779aaeccaf
+run_name: RANSAC_2
+run_uuid: 9c40fab737624212bfcb4f779aaeccaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695728767634
+status: 3
+tags: []
+user_id: selmane

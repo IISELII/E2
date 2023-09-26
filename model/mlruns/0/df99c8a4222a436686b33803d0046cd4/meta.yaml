@@ -1,0 +1,15 @@
+artifact_uri: file:///home/selmane/code/IISELII/E2/model/mlruns/0/df99c8a4222a436686b33803d0046cd4/artifacts
+end_time: 1695717869172
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df99c8a4222a436686b33803d0046cd4
+run_name: placid-donkey-589
+run_uuid: df99c8a4222a436686b33803d0046cd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695717869024
+status: 3
+tags: []
+user_id: selmane

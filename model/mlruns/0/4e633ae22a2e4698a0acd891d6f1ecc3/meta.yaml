@@ -1,0 +1,15 @@
+artifact_uri: file:///home/selmane/code/IISELII/E2/model/mlruns/0/4e633ae22a2e4698a0acd891d6f1ecc3/artifacts
+end_time: 1695717876227
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e633ae22a2e4698a0acd891d6f1ecc3
+run_name: wistful-worm-583
+run_uuid: 4e633ae22a2e4698a0acd891d6f1ecc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695717876019
+status: 3
+tags: []
+user_id: selmane

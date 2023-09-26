@@ -1,0 +1,16 @@
+artifact_uri: file:///home/selmane/code/IISELII/E2/model/mlruns/935199049287794094/7a6afde839e64057bbec48e5472ab1d8/artifacts
+deleted_time: 1695721995104
+end_time: 1695720683742
+entry_point_name: ''
+experiment_id: '935199049287794094'
+lifecycle_stage: deleted
+run_id: 7a6afde839e64057bbec48e5472ab1d8
+run_name: painted-cub-606
+run_uuid: 7a6afde839e64057bbec48e5472ab1d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695720683288
+status: 3
+tags: []
+user_id: selmane

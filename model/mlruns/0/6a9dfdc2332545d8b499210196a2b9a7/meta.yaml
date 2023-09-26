@@ -1,0 +1,15 @@
+artifact_uri: file:///home/selmane/code/IISELII/E2/model/mlruns/0/6a9dfdc2332545d8b499210196a2b9a7/artifacts
+end_time: 1695718206221
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a9dfdc2332545d8b499210196a2b9a7
+run_name: flawless-doe-65
+run_uuid: 6a9dfdc2332545d8b499210196a2b9a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695718206051
+status: 3
+tags: []
+user_id: selmane

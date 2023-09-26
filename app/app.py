@@ -22,6 +22,7 @@ if page == "Accueil":
 elif page == "Prédictions":
     st.title("Faites une prédiction avec notre modèle !")
     
+    # Input de notre modèle    
     longitude = float(st.number_input("longitude:", min_value=0.0))
     latitude = float(st.number_input("latitude:", min_value=0.0))
     housing_median_age = float(st.number_input("housing median age:", min_value=0.0))
